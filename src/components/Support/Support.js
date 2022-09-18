@@ -26,12 +26,12 @@ const Support = () => {
 
             <div className='row'>
                 <HiMail className='icon' />
-                <h4>metnext@contact.com</h4>
+                <h4>contact@metnext.com</h4>
             </div>
 
             <div className='row'>
                 <HiMail className='icon' />
-                <h4>metnext2@contact.com</h4>
+                <h4>contact2@metnext.com</h4>
             </div>
         </div>
     )
