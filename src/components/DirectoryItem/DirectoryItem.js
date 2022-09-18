@@ -6,7 +6,7 @@ const DirectoryItem = ({ category }) => {
     const { imageUrl, title } = category;
     const navigate = useNavigate();
 
-    const onNavigateHandler = () => navigate("profile");
+    const onNavigateHandler = () => navigate(title);
 
 
     return (

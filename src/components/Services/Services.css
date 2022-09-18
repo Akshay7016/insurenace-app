@@ -1,0 +1,22 @@
+ol{
+    margin-top: 50px;
+}
+
+li {
+  font-size: 30px;
+  padding: 10px 0;
+}
+
+li:hover{
+    cursor: pointer;
+    color: blueviolet;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+  margin-bottom: 40px;
+  border-bottom: 1px solid #383838;
+  box-shadow: 2px 2px 5px #606060;
+}
