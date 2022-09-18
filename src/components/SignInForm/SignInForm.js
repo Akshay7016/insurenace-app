@@ -44,7 +44,7 @@ const SignInForm = () => {
             <span>Sign in with your email and password</span>
             <form onSubmit={handleSubmit}>
                 <FormInput
-                    label="Email"
+                    label="Username"
                     inputOptions={{
                         type: "text",
                         name: "userName",
